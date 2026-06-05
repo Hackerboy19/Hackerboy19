@@ -52,7 +52,7 @@
         <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" alt="Portfolio Preview" />
       </a>
       <br><br>
-      <a href="https://portfolio-piyush1.lovable.app"><b>👉 Explore My Lovable Portfolio 👈</b></a>
+      <a href="https://portfolio-piyush1.lovable.app"><b>👉 Explore My Portfolio 👈</b></a>
     </td>
     <td width="50%" align="center">
       <h2>📈 Fortexa Tech</h2>
