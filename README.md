@@ -28,17 +28,11 @@
   </a>
 </div>
 
-"<br>
+<br>
 
-### 🏆 GitHub Achievements
-*(These trophies will automatically level up as you code more!)*
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    //<img src="https://github-profile-trophy.vercel.app/?username=Hackerboy19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Trophies" />
-  </a>
-</div>
 
-<br>"
+
+<br>
 
 ### 🚀 Highlighted Work & Platforms
 <!-- 📢 Promotional Grid layout to drive traffic -->
